@@ -1,0 +1,14 @@
+{
+  "name": "lab2-github-vercel",
+  "version": "1.0.0",
+  "description": "This is used for the lab 2 on web322 at Seneca, created by Jairo Calderon",
+  "main": "serverapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jairo Calderon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
